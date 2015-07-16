@@ -137,6 +137,9 @@ micro: all
 cub: OPT_DEFS += -DKEYMAP_CUB
 cub: all
 
+imbriaco_win: OPT_DEFS += -DKEYMAP_IMBRIACO_WIN
+imbriaco_win: all
+
 imbriaco: OPT_DEFS += -DKEYMAP_IMBRIACO
 imbriaco: all
 
